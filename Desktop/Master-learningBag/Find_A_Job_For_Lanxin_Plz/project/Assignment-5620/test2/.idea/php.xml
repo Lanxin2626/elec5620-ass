@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/elec5620/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/grpc/grpc" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/google/protobuf" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/google/grpc-gcp" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/google/gax" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/google/common-protos" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/google/cloud-vision" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/google/cloud-core" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/composer" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/elec5620/vendor/guzzlehttp/psr7" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/elec5620/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

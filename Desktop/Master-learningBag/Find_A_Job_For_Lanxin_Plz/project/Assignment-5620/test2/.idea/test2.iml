@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/grpc/grpc" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/google/protobuf" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/google/grpc-gcp" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/google/gax" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/google/common-protos" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/google/cloud-vision" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/google/cloud-core" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/google/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/rize/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/elec5620/vendor/guzzlehttp/psr7" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
